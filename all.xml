@@ -2,62 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GetRSS.github.io/feedmeup/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-02T15:21:18.467Z</updated>
+    <updated>2022-10-04T18:32:58.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이번 가을엔 베레모! 차정원·조이·김나영이 쓴 베레모는? (코스모폴리탄 코리아 ─ 패션)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/71288</id>
+        <link href="https://www.cosmopolitan.co.kr/article/71288"/>
+        <updated>2022-10-04T18:32:57.480Z</updated>
+        <content type="html"><![CDATA[올가을 포인트 아이템으로 베레모 어때요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[같은 디젤 탑 입은 뉴진스 민지·민니·조이! (코스모폴리탄 코리아 ─ 패션)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/71286</id>
+        <link href="https://www.cosmopolitan.co.kr/article/71286"/>
+        <updated>2022-10-04T18:32:57.490Z</updated>
+        <content type="html"><![CDATA[요즘 자주 보이는 ‘디젤 탑’ 입은 스타들]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슬립 드레스 가을까지 즐겨보자! (코스모폴리탄 코리아 ─ 패션)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/71249</id>
+        <link href="https://www.cosmopolitan.co.kr/article/71249"/>
+        <updated>2022-10-04T18:32:57.491Z</updated>
+        <content type="html"><![CDATA[여름에 즐기던 슬립 드레스, 가을에도 활용하는 방법!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스도 신은 슈즈의 정체는!? (코스모폴리탄 코리아 ─ 패션)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/71245</id>
+        <link href="https://www.cosmopolitan.co.kr/article/71245"/>
+        <updated>2022-10-04T18:32:57.496Z</updated>
+        <content type="html"><![CDATA[‘스니커즈 힐’이 대유행 중]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[힙하다 힙해~ 글로벌 대세 정호연의 패션 탐구 (코스모폴리탄 코리아 ─ 패션)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/71238</id>
+        <link href="https://www.cosmopolitan.co.kr/article/71238"/>
+        <updated>2022-10-04T18:32:57.498Z</updated>
+        <content type="html"><![CDATA[올해도 종횡무진 활약 중인 그녀!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패션과 스포츠가 만났을 때 (코스모폴리탄 코리아 ─ 패션)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/71203</id>
+        <link href="https://www.cosmopolitan.co.kr/article/71203"/>
+        <updated>2022-10-04T18:32:57.502Z</updated>
+        <content type="html"><![CDATA[패션과 스포츠, 전통과 혁신을 결합하는 오니츠카타이거의 2023 S/S 컬렉션.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을엔 뭐다? 멋쁨 그 잡채 레더 재킷 장착! (코스모폴리탄 코리아 ─ 패션)]]></title>
+        <id>https://www.cosmopolitan.co.kr/article/71235</id>
+        <link href="https://www.cosmopolitan.co.kr/article/71235"/>
+        <updated>2022-10-04T18:32:57.502Z</updated>
+        <content type="html"><![CDATA[로제•지수•슬기•남지현의 레더 재킷 패션 모음ZIP]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로제·아이유·사나까지 패션위크 기간 셀럽들의 일상은?! (코스모폴리탄 코리아 ─ 패션)]]></title>
         <id>https://www.cosmopolitan.co.kr/article/71228</id>
         <link href="https://www.cosmopolitan.co.kr/article/71228"/>
         <updated>2022-10-01T12:41:33.320Z</updated>
         <content type="html"><![CDATA[파리, 밀라노, 런던, 피렌체 등 패션 위크를 누비는 스타들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안유진·민니·제니! 핫한 셀럽은 요즘 ‘카고바지’를 입어~! (코스모폴리탄 코리아 ─ 패션)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/71227</id>
-        <link href="https://www.cosmopolitan.co.kr/article/71227"/>
-        <updated>2022-10-01T12:41:33.320Z</updated>
-        <content type="html"><![CDATA[요즘 대세라는 카고 팬츠! 셀럽들의 스타일링 살펴보기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['코르셋'을 입은 스타들 (코스모폴리탄 코리아 ─ 패션)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/71192</id>
-        <link href="https://www.cosmopolitan.co.kr/article/71192"/>
-        <updated>2022-10-01T12:41:33.320Z</updated>
-        <content type="html"><![CDATA[몸매 보정용 NO, 스타일리쉬한 패션 아이템 YES!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모 픽! 10월에 꼭 사야할 이달의 머스트해브 아이템 4 (코스모폴리탄 코리아 ─ 패션)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/71174</id>
-        <link href="https://www.cosmopolitan.co.kr/article/71174"/>
-        <updated>2022-10-01T12:41:33.325Z</updated>
-        <content type="html"><![CDATA[코스모가 픽한 이달의 머스트해브 아이템.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성경처럼 입고 싶다면 더엣지가 정답! (코스모폴리탄 코리아 ─ 패션)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/71067</id>
-        <link href="https://www.cosmopolitan.co.kr/article/71067"/>
-        <updated>2022-10-01T12:41:33.327Z</updated>
-        <content type="html"><![CDATA[더엣지와 뮤즈 이성경이 선보이는 더엣지만의 감각적인 겨울 컬렉션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산다라박·나연 등 셀럽들이 애정하는 국내 캡모자 브랜드 모음zip (코스모폴리탄 코리아 ─ 패션)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/71101</id>
-        <link href="https://www.cosmopolitan.co.kr/article/71101"/>
-        <updated>2022-10-01T12:41:33.327Z</updated>
-        <content type="html"><![CDATA[그린신드롬부터 다다서비스, 더뮤지엄비지터, 떠그클럽까지 찐 젠지들한테 인기 많은 국내 모자 브...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니도 입었다! 모터사이클 재킷으로 Y2K 마스터하기 (코스모폴리탄 코리아 ─ 패션)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/71102</id>
-        <link href="https://www.cosmopolitan.co.kr/article/71102"/>
-        <updated>2022-10-01T12:41:33.327Z</updated>
-        <content type="html"><![CDATA[힙하고 쿨한 Y2K 핫템! 해외 인플루언서부터 국내 셀럽들까지, 핫걸들의 활용법 모아모아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스·있지·아이브 등 MZ세대는 넥타이 이렇게 입는다~ (코스모폴리탄 코리아 ─ 패션)]]></title>
-        <id>https://www.cosmopolitan.co.kr/article/71100</id>
-        <link href="https://www.cosmopolitan.co.kr/article/71100"/>
-        <updated>2022-10-01T12:41:33.330Z</updated>
-        <content type="html"><![CDATA[뉴진스부터 있지, 아이브 등 찐젠지 여돌들의 넥타이 활용법!]]></content>
     </entry>
 </feed>
