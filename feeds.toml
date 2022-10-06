@@ -3,10 +3,9 @@ timeout = 180
 
 [ticket_m]
 title = "인터파크 티켓 모바일"
-url = "http://mticket.interpark.com/Notice/"
+url = "http://mticket.interpark.com/Notice/Index?Genre=&Page=1&PageSize=10&Sort=1"
 entrySelector = "div.ticketListBox > div.list > div.item"
 titleSelector = "a > div.row > div.col.infoWrap > p.label"
 linkSelector = "a"
 contentSelector = "a > div:nth-child(2) > div > dl.ticketOpen > dd"
 waitForSelector = "div.list > div.item"
-onFail = "stale"
