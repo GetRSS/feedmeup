@@ -1,12 +1,12 @@
 [default]
 timeout = 180
 
-[interpark]
-title = "인터파크 티켓"
-url = "http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&pageno=0&stext=&KindOfGoods=&Genre=&sort="
-entrySelector = "tbody > tr"
-titleSelector = "td.subject a"
-linkSelector = "td.subject a"
-contentSelector = "td[class='date']"
-waitForSelector = "td[class='subject']"
+[ticket_m]
+title = "인터파크 티켓 모바일"
+url = "http://mticket.interpark.com/Notice/"
+entrySelector = "div.ticketListBox > div.list > div.item"
+titleSelector = "a > div.row > div.col.infoWrap > p.label"
+linkSelector = "a"
+contentSelector = "a > div:nth-child(2) > div > dl.ticketOpen > dd"
+waitForSelector = "div.list > div.item"
 onFail = "stale"
