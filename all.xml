@@ -2,86 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GetRSS.github.io/feedmeup/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-06T18:34:48.430Z</updated>
+    <updated>2022-10-07T05:37:21.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[2022 린 (LYn) 콘서트 〈HOME〉 2nd 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44544</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44544"/>
-        <updated>2022-10-06T15:25:06.821Z</updated>
+        <title type="html"><![CDATA[연극 〈에쿠우스〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44561</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44561"/>
+        <updated>2022-10-07T05:37:20.737Z</updated>
         <content type="html"><![CDATA[2022.10.14
-                                    <span>14:00</span>]]></content>
+                                    <span>11:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <깨비키즈의 빽투더 공룡배틀> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44543</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44543"/>
-        <updated>2022-10-06T15:25:06.830Z</updated>
-        <content type="html"><![CDATA[2022.10.12
-                                    <span>10:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니버설발레단 <호두까기인형> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44542</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44542"/>
-        <updated>2022-10-06T15:25:06.830Z</updated>
-        <content type="html"><![CDATA[2022.10.13
-                                    <span>10:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 송가인 전국투어 콘서트-광주앵콜 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44541</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44541"/>
-        <updated>2022-10-06T15:25:06.834Z</updated>
+        <title type="html"><![CDATA[OPCD WEEK 2022 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44560</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44560"/>
+        <updated>2022-10-07T05:37:20.741Z</updated>
         <content type="html"><![CDATA[2022.10.11
                                     <span>12:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 〈어차피 혼자〉 4차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44540</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44540"/>
-        <updated>2022-10-06T15:25:06.837Z</updated>
-        <content type="html"><![CDATA[2022.10.11
+        <title type="html"><![CDATA[예측불허 실전로맨스♥〈극적인 하룻밤〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44559</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44559"/>
+        <updated>2022-10-07T05:37:20.744Z</updated>
+        <content type="html"><![CDATA[2022.10.14
                                     <span>14:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조항조＆진성 〈앙상블콘서트〉 - 청주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44539</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44539"/>
-        <updated>2022-10-06T15:25:06.837Z</updated>
+        <title type="html"><![CDATA[뮤지컬 <킹키부츠> - 여수 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44558</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44558"/>
+        <updated>2022-10-07T05:37:20.744Z</updated>
+        <content type="html"><![CDATA[2022.10.12
+                                    <span>15:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈랭보〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44557</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44557"/>
+        <updated>2022-10-07T05:37:20.756Z</updated>
+        <content type="html"><![CDATA[2022.10.14
+                                    <span>15:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <서울빠뺑자매> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44556</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44556"/>
+        <updated>2022-10-07T05:37:20.766Z</updated>
         <content type="html"><![CDATA[2022.10.12
                                     <span>14:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조항조&진성 <앙상블콘서트> - 인천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44538</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44538"/>
-        <updated>2022-10-06T15:25:06.842Z</updated>
-        <content type="html"><![CDATA[2022.10.11
+        <title type="html"><![CDATA[뮤지컬 서편제 부산공연 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44555</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44555"/>
+        <updated>2022-10-07T05:37:20.766Z</updated>
+        <content type="html"><![CDATA[2022.10.13
                                     <span>14:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 〈인간의 법정〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44537</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44537"/>
-        <updated>2022-10-06T15:25:06.843Z</updated>
-        <content type="html"><![CDATA[2022.10.11
-                                    <span>16:00</span>]]></content>
+        <title type="html"><![CDATA[2022 LIGHT UP FESTIVAL 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44554</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44554"/>
+        <updated>2022-10-07T05:37:20.768Z</updated>
+        <content type="html"><![CDATA[2022.10.14
+                                    <span>20:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬＜킹키부츠＞ - 용인 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44536</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44536"/>
-        <updated>2022-10-06T15:25:06.844Z</updated>
-        <content type="html"><![CDATA[2022.10.12
-                                    <span>16:00</span>]]></content>
+        <title type="html"><![CDATA[EPEX 1st CONCERT 〈EIGHT APEX〉 in SEOUL 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44553</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44553"/>
+        <updated>2022-10-07T05:37:20.770Z</updated>
+        <content type="html"><![CDATA[2022.10.14
+                                    <span>18:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <킹키부츠> - 성남 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44535</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44535"/>
-        <updated>2022-10-06T15:25:06.855Z</updated>
-        <content type="html"><![CDATA[2022.10.12
-                                    <span>14:00</span>]]></content>
+        <title type="html"><![CDATA[연극 아트(ART) 4차티켓 오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44552</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44552"/>
+        <updated>2022-10-07T05:37:20.773Z</updated>
+        <content type="html"><![CDATA[2022.10.13
+                                    <span>15:00</span>]]></content>
     </entry>
 </feed>
