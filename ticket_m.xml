@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-10-11T06:53:27.836Z</updated>
+    <updated>2022-10-11T12:48:50.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양방언 NEO UTOPIA 2022 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44608</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44608"/>
+        <updated>2022-10-11T12:48:48.443Z</updated>
+        <content type="html"><![CDATA[2022.10.17
+                                    <span>12:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라포엠 단독 콘서트 [LA POEM SYMPHONY] 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44607</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44607"/>
+        <updated>2022-10-11T12:48:48.443Z</updated>
+        <content type="html"><![CDATA[2022.10.18
+                                    <span>20:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화중서가(畵中抒歌) 환기의 노래, 그림이 되다 티켓오픈 안내]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=924</id>
@@ -68,21 +84,5 @@
         <updated>2022-10-11T06:53:27.105Z</updated>
         <content type="html"><![CDATA[2022.10.13
                                     <span>16:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈동네〉 트라이아웃 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44599</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44599"/>
-        <updated>2022-10-11T06:53:27.107Z</updated>
-        <content type="html"><![CDATA[2022.10.14
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장민호 단독 콘서트 ‘호시절 : 好時節’ - 대구 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44595</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44595"/>
-        <updated>2022-10-11T06:53:27.108Z</updated>
-        <content type="html"><![CDATA[2022.10.13
-                                    <span>20:00</span>]]></content>
     </entry>
 </feed>
