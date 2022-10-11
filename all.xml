@@ -2,86 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GetRSS.github.io/feedmeup/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-10T23:25:17.931Z</updated>
+    <updated>2022-10-11T06:53:27.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 안동 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44571</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44571"/>
-        <updated>2022-10-07T09:31:31.912Z</updated>
-        <content type="html"><![CDATA[2022.10.13
+        <title type="html"><![CDATA[화중서가(畵中抒歌) 환기의 노래, 그림이 되다 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=924</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=924"/>
+        <updated>2022-10-11T06:53:27.088Z</updated>
+        <content type="html"><![CDATA[2022.10.11
+                                    <span>17:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <온 더 비트> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44606</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44606"/>
+        <updated>2022-10-11T06:53:27.092Z</updated>
+        <content type="html"><![CDATA[2022.10.17
                                     <span>15:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THE ORDINARY 디 오디너리 앵콜 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44570</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44570"/>
-        <updated>2022-10-07T09:31:31.913Z</updated>
+        <title type="html"><![CDATA[뮤지컬 〈드라큘라〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44605</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44605"/>
+        <updated>2022-10-11T06:53:27.093Z</updated>
+        <content type="html"><![CDATA[2022.10.17
+                                    <span>14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 임재범 전국투어 콘서트 대구 〈집으로 돌아 가는길...〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44604</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44604"/>
+        <updated>2022-10-11T06:53:27.101Z</updated>
+        <content type="html"><![CDATA[2022.10.14
+                                    <span>20:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 임재범 전국투어 콘서트 광주 〈집으로 돌아 가는길...〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44603</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44603"/>
+        <updated>2022-10-11T06:53:27.101Z</updated>
+        <content type="html"><![CDATA[2022.10.14
+                                    <span>19:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 임재범 전국투어 콘서트 대전 〈집으로 돌아 가는길...〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44602</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44602"/>
+        <updated>2022-10-11T06:53:27.102Z</updated>
         <content type="html"><![CDATA[2022.10.14
                                     <span>18:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[벙거지꾼 계동이 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44569</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44569"/>
-        <updated>2022-10-07T09:31:31.924Z</updated>
+        <title type="html"><![CDATA[2022년 임재범 전국투어 콘서트 부산 〈집으로 돌아 가는길...〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44601</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44601"/>
+        <updated>2022-10-11T06:53:27.104Z</updated>
+        <content type="html"><![CDATA[2022.10.14
+                                    <span>17:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈오만과 편견〉 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44600</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44600"/>
+        <updated>2022-10-11T06:53:27.105Z</updated>
         <content type="html"><![CDATA[2022.10.13
-                                    <span>09:00</span>]]></content>
+                                    <span>16:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 롯데콘서트홀 송년음악회 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44568</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44568"/>
-        <updated>2022-10-07T09:31:31.929Z</updated>
-        <content type="html"><![CDATA[2022.10.13
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈배니싱〉 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44567</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44567"/>
-        <updated>2022-10-07T09:31:31.941Z</updated>
-        <content type="html"><![CDATA[2022.10.13
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈트레드밀〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44566</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44566"/>
-        <updated>2022-10-07T09:31:31.943Z</updated>
-        <content type="html"><![CDATA[2022.10.13
-                                    <span>11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허원숙 하이든 프로젝트 III ‘니콜라우스 에스터하지’ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44565</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44565"/>
-        <updated>2022-10-07T09:31:31.943Z</updated>
-        <content type="html"><![CDATA[2022.10.13
-                                    <span>13:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈볼륨업〉 4차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44564</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44564"/>
-        <updated>2022-10-07T09:31:31.945Z</updated>
-        <content type="html"><![CDATA[2022.10.12
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 이은미 전국투어 콘서트 〈ACOUSTIC〉 - 군포 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44563</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44563"/>
-        <updated>2022-10-07T09:31:31.946Z</updated>
+        <title type="html"><![CDATA[뮤지컬 〈동네〉 트라이아웃 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44599</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44599"/>
+        <updated>2022-10-11T06:53:27.107Z</updated>
         <content type="html"><![CDATA[2022.10.14
                                     <span>14:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 이병우 기타 솔로콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44562</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44562"/>
-        <updated>2022-10-07T09:31:31.947Z</updated>
-        <content type="html"><![CDATA[2022.10.12
-                                    <span>14:00</span>]]></content>
+        <title type="html"><![CDATA[2022 장민호 단독 콘서트 ‘호시절 : 好時節’ - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44595</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44595"/>
+        <updated>2022-10-11T06:53:27.108Z</updated>
+        <content type="html"><![CDATA[2022.10.13
+                                    <span>20:00</span>]]></content>
     </entry>
 </feed>
