@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-10-14T07:37:31.992Z</updated>
+    <updated>2022-10-14T14:05:12.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 김범수 콘서트 명품이즈백 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44673</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44673"/>
+        <updated>2022-10-14T14:05:09.294Z</updated>
+        <content type="html"><![CDATA[2022.10.21
+                                    <span>12:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 김범수 콘서트 명품이즈백 - 부산 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44672</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44672"/>
+        <updated>2022-10-14T14:05:09.298Z</updated>
+        <content type="html"><![CDATA[2022.10.24
+                                    <span>14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태양의서커스 〈뉴 알레그리아〉 3차 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44671</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44671"/>
+        <updated>2022-10-14T14:05:09.303Z</updated>
+        <content type="html"><![CDATA[2022.10.18
+                                    <span>14:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매직드로잉 가족극 〈두들팝〉 12월 2차 티켓오픈 안내]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44670</id>
@@ -59,30 +83,6 @@
         <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44664"/>
         <updated>2022-10-14T07:37:31.124Z</updated>
         <content type="html"><![CDATA[2022.10.19
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 god [ON] - 부산 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44663</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44663"/>
-        <updated>2022-10-14T07:37:31.128Z</updated>
-        <content type="html"><![CDATA[2022.10.28
-                                    <span>20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 god [ON] - 서울 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44662</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44662"/>
-        <updated>2022-10-14T07:37:31.142Z</updated>
-        <content type="html"><![CDATA[2022.10.28
-                                    <span>19:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈브로드웨이 42번가〉 2차 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44661</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44661"/>
-        <updated>2022-10-14T07:37:31.143Z</updated>
-        <content type="html"><![CDATA[2022.10.21
                                     <span>14:00</span>]]></content>
     </entry>
 </feed>
