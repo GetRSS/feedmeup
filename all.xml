@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GetRSS.github.io/feedmeup/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-17T08:36:37.912Z</updated>
+    <updated>2022-10-17T15:30:34.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[누군가의 플레이리스트 Track. 56 이준형 단독 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44682</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44682"/>
+        <updated>2022-10-17T15:30:33.773Z</updated>
+        <content type="html"><![CDATA[2022.10.18
+                                    <span>20:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Music Exhibition : 조주 단독 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44681</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44681"/>
+        <updated>2022-10-17T15:30:33.774Z</updated>
+        <content type="html"><![CDATA[2022.10.18
+                                    <span>19:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 폴킴 전국투어 콘서트 〈STAR〉 - 전주 추가티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44680</id>
@@ -67,21 +83,5 @@
         <updated>2022-10-14T14:05:09.298Z</updated>
         <content type="html"><![CDATA[2022.10.24
                                     <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태양의서커스 〈뉴 알레그리아〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44671</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44671"/>
-        <updated>2022-10-14T14:05:09.303Z</updated>
-        <content type="html"><![CDATA[2022.10.18
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매직드로잉 가족극 〈두들팝〉 12월 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44670</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44670"/>
-        <updated>2022-10-14T07:37:30.994Z</updated>
-        <content type="html"><![CDATA[2022.10.21
-                                    <span>11:00</span>]]></content>
     </entry>
 </feed>
