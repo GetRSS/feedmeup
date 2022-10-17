@@ -2,9 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-10-16T20:28:55.682Z</updated>
+    <updated>2022-10-17T06:24:09.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 폴킴 전국투어 콘서트 〈STAR〉 - 전주 추가티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44680</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44680"/>
+        <updated>2022-10-17T06:24:08.611Z</updated>
+        <content type="html"><![CDATA[2022.10.18
+                                    <span>16:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[히사이시 조 영화음악 콘서트 2022_전주 추가 회차 오픈(14시공연) 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44679</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44679"/>
+        <updated>2022-10-17T06:24:08.612Z</updated>
+        <content type="html"><![CDATA[2022.10.20
+                                    <span>15:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[히사이시 조 영화음악 콘서트 2022_서울 파이널 추가회차 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44678</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44678"/>
+        <updated>2022-10-17T06:24:08.630Z</updated>
+        <content type="html"><![CDATA[2022.10.18
+                                    <span>14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로맨틱 코믹 체력극 〈신바람 삼대〉 11월 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44677</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44677"/>
+        <updated>2022-10-17T06:24:08.633Z</updated>
+        <content type="html"><![CDATA[2022.10.21
+                                    <span>11:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 더원 콘서트 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44676</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44676"/>
+        <updated>2022-10-17T06:24:08.633Z</updated>
+        <content type="html"><![CDATA[2022.10.21
+                                    <span>15:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 브레드이발소 〈대결! 최고의 이발사〉 - 대전 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44674</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44674"/>
+        <updated>2022-10-17T06:24:08.634Z</updated>
+        <content type="html"><![CDATA[2022.10.20
+                                    <span>09:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 김범수 콘서트 명품이즈백 티켓오픈 안내]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44673</id>
@@ -36,53 +84,5 @@
         <updated>2022-10-14T07:37:30.994Z</updated>
         <content type="html"><![CDATA[2022.10.21
                                     <span>11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양방언 NEO UTOPIA 2022 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44669</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44669"/>
-        <updated>2022-10-14T07:37:31.063Z</updated>
-        <content type="html"><![CDATA[2022.10.20
-                                    <span>13:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 14차 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44668</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44668"/>
-        <updated>2022-10-14T07:37:31.074Z</updated>
-        <content type="html"><![CDATA[2022.10.18
-                                    <span>11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 평택 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44667</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44667"/>
-        <updated>2022-10-14T07:37:31.085Z</updated>
-        <content type="html"><![CDATA[2022.10.20
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 선우정아 단독콘서트 〈The Box〉 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44666</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44666"/>
-        <updated>2022-10-14T07:37:31.121Z</updated>
-        <content type="html"><![CDATA[2022.10.17
-                                    <span>20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스탠딩에그＆소란 콘서트 - 대구 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44665</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44665"/>
-        <updated>2022-10-14T07:37:31.123Z</updated>
-        <content type="html"><![CDATA[2022.10.20
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 부활 크리스마스 콘서트 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44664</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44664"/>
-        <updated>2022-10-14T07:37:31.124Z</updated>
-        <content type="html"><![CDATA[2022.10.19
-                                    <span>14:00</span>]]></content>
     </entry>
 </feed>
