@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-10-18T06:11:04.810Z</updated>
+    <updated>2022-10-18T09:30:20.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 김경호 전국투어콘서트 IN 대구 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44695</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44695"/>
+        <updated>2022-10-18T09:30:19.448Z</updated>
+        <content type="html"><![CDATA[2022.10.24
+                                    <span>14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 V.O.S 콘서트 <소울메이트> - 청주 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44694</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44694"/>
+        <updated>2022-10-18T09:30:19.448Z</updated>
+        <content type="html"><![CDATA[2022.10.21
+                                    <span>14:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈클림트〉 4차 티켓오픈 안내]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44692</id>
@@ -68,21 +84,5 @@
         <updated>2022-10-18T06:11:04.044Z</updated>
         <content type="html"><![CDATA[2022.10.21
                                     <span>15:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울［2022 FUERZA BRUTA WAYRA IN SEOUL］ 3차 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44683</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44683"/>
-        <updated>2022-10-18T06:11:04.047Z</updated>
-        <content type="html"><![CDATA[2022.10.20
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누군가의 플레이리스트 Track. 56 이준형 단독 콘서트 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44682</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44682"/>
-        <updated>2022-10-17T15:30:33.773Z</updated>
-        <content type="html"><![CDATA[2022.10.18
-                                    <span>20:00</span>]]></content>
     </entry>
 </feed>
