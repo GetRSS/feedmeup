@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-10-18T14:05:24.961Z</updated>
+    <updated>2022-10-18T18:37:23.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
     <entry>
@@ -46,14 +46,6 @@
                                     <span>20:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신유 & 박애리의 풍류음악회 - 여주 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44689</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44689"/>
-        <updated>2022-10-18T06:11:04.034Z</updated>
-        <content type="html"><![CDATA[2022.10.18
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 14차 티켓오픈 안내]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44688</id>
         <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44688"/>
@@ -84,5 +76,13 @@
         <updated>2022-10-18T06:11:04.044Z</updated>
         <content type="html"><![CDATA[2022.10.21
                                     <span>15:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울［2022 FUERZA BRUTA WAYRA IN SEOUL］ 3차 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44683</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44683"/>
+        <updated>2022-10-18T18:37:22.869Z</updated>
+        <content type="html"><![CDATA[2022.10.20
+                                    <span>14:00</span>]]></content>
     </entry>
 </feed>
