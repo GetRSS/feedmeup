@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-10-18T23:29:48.452Z</updated>
+    <updated>2022-10-19T02:00:05.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[할리우드 인 크리스마스 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44697</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44697"/>
+        <updated>2022-10-19T02:00:04.849Z</updated>
+        <content type="html"><![CDATA[2022.10.26
+                                    <span>14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 제39회 대한민국국제음악제 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44696</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44696"/>
+        <updated>2022-10-19T02:00:04.853Z</updated>
+        <content type="html"><![CDATA[2022.10.21
+                                    <span>11:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 김경호 전국투어콘서트 IN 대구 티켓오픈 안내]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44695</id>
@@ -67,22 +83,6 @@
         <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44686"/>
         <updated>2022-10-18T06:11:04.040Z</updated>
         <content type="html"><![CDATA[2022.10.24
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 웰컴 대학로-웰컴 씨어터 뮤지컬 〈더 라스트맨〉 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44684</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44684"/>
-        <updated>2022-10-18T06:11:04.044Z</updated>
-        <content type="html"><![CDATA[2022.10.21
-                                    <span>15:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울［2022 FUERZA BRUTA WAYRA IN SEOUL］ 3차 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44683</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44683"/>
-        <updated>2022-10-18T18:37:22.869Z</updated>
-        <content type="html"><![CDATA[2022.10.20
                                     <span>14:00</span>]]></content>
     </entry>
 </feed>
