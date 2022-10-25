@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-10-25T07:46:06.445Z</updated>
+    <updated>2022-10-25T09:38:57.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누군가의 플레이리스트 Track. 57 PL(피엘) 단독 콘서트 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44773</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44773"/>
+        <updated>2022-10-25T09:38:56.835Z</updated>
+        <content type="html"><![CDATA[2022.10.26
+                                    <span>19:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정아로 1st EP 〈Always〉 발매기념 단독 토크 콘서트 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44772</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44772"/>
+        <updated>2022-10-25T09:38:56.835Z</updated>
+        <content type="html"><![CDATA[2022.10.26
+                                    <span>20:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heize 1st Concert [Heize City] 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44771</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44771"/>
+        <updated>2022-10-25T09:38:56.840Z</updated>
+        <content type="html"><![CDATA[2022.10.27
+                                    <span>19:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(2022 울산) 크리스마스특집 가족뮤지컬 〈루돌프와 산타클로스〉 - 울산 티켓오픈 안내]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44770</id>
@@ -59,29 +83,5 @@
         <updated>2022-10-25T07:46:05.688Z</updated>
         <content type="html"><![CDATA[2022.10.27
                                     <span>15:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악극 <괴물> 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44763</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44763"/>
-        <updated>2022-10-25T07:46:05.691Z</updated>
-        <content type="html"><![CDATA[2022.10.27
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙코메디 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44762</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44762"/>
-        <updated>2022-10-25T07:46:05.692Z</updated>
-        <content type="html"><![CDATA[2022.10.28
-                                    <span>09:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미디어아트 X 시나 쓰는 앨리스 : 상실의 별 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44761</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44761"/>
-        <updated>2022-10-25T07:46:05.694Z</updated>
-        <content type="html"><![CDATA[2022.10.28
-                                    <span>12:00</span>]]></content>
     </entry>
 </feed>
