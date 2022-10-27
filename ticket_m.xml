@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-10-26T23:25:16.978Z</updated>
+    <updated>2022-10-27T03:46:05.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콘서트 브랜디드 포커시드 VOL.4 〈잭킹콩〉 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44797</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44797"/>
+        <updated>2022-10-27T03:46:04.338Z</updated>
+        <content type="html"><![CDATA[2022.10.31
+                                    <span>12:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캣츠 오리지널 내한-세종(Musical CATS) 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44795</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44795"/>
+        <updated>2022-10-27T03:46:04.339Z</updated>
+        <content type="html"><![CDATA[2022.11.03
+                                    <span>14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캣츠 오리지널 내한-김해(Musical CATS) 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44794</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44794"/>
+        <updated>2022-10-27T03:46:04.339Z</updated>
+        <content type="html"><![CDATA[2022.11.03
+                                    <span>14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정동원 콘서트 2nd ‘성탄총동원’(2nd JEONG DONG WON’S CHRISTMAS CONCERT) 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44793</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44793"/>
+        <updated>2022-10-27T03:46:04.340Z</updated>
+        <content type="html"><![CDATA[2022.11.03
+                                    <span>12:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 지소울 콘서트 IN SEOUL : 온라인 스트리밍 티켓오픈 안내]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44792</id>
@@ -52,37 +84,5 @@
         <updated>2022-10-26T07:23:29.141Z</updated>
         <content type="html"><![CDATA[2022.10.27
                                     <span>15:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <산타와 빈양말> - 대구 아양아트센터 아양홀 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44784</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44784"/>
-        <updated>2022-10-26T07:23:29.144Z</updated>
-        <content type="html"><![CDATA[2022.11.01
-                                    <span>11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈볼륨업〉 5차 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44783</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44783"/>
-        <updated>2022-10-26T06:27:32.318Z</updated>
-        <content type="html"><![CDATA[2022.10.31
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CURTAIN CALL : 다섯 빛의 크리스마스 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44781</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44781"/>
-        <updated>2022-10-26T06:27:32.320Z</updated>
-        <content type="html"><![CDATA[2022.11.03
-                                    <span>13:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 조수미 콘서트 〈In Love〉 - 부산 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44780</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44780"/>
-        <updated>2022-10-26T06:27:32.322Z</updated>
-        <content type="html"><![CDATA[2022.10.31
-                                    <span>14:00</span>]]></content>
     </entry>
 </feed>
