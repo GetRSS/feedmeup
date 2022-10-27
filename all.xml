@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GetRSS.github.io/feedmeup/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-27T03:46:05.087Z</updated>
+    <updated>2022-10-27T04:48:39.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2022 송년음악회 〈KBS교향악단 & 피에타리 잉키넨 “합창” 교향곡〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44798</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44798"/>
+        <updated>2022-10-27T04:48:38.887Z</updated>
+        <content type="html"><![CDATA[2022.11.01
+                                    <span>14:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콘서트 브랜디드 포커시드 VOL.4 〈잭킹콩〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44797</id>
@@ -75,13 +83,5 @@
         <updated>2022-10-26T07:23:29.133Z</updated>
         <content type="html"><![CDATA[2022.10.31
                                     <span>19:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 춤추는 죽음 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44785</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44785"/>
-        <updated>2022-10-26T07:23:29.141Z</updated>
-        <content type="html"><![CDATA[2022.10.27
-                                    <span>15:00</span>]]></content>
     </entry>
 </feed>
