@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-10-28T07:23:59.456Z</updated>
+    <updated>2022-10-28T08:33:04.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤직드라마 〈망원동 브라더스〉 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44822</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44822"/>
+        <updated>2022-10-28T08:33:03.937Z</updated>
+        <content type="html"><![CDATA[2022.10.31
+                                    <span>14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 브레드이발소 〈대결! 최고의 이발사〉 - 부천 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44821</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44821"/>
+        <updated>2022-10-28T08:33:03.937Z</updated>
+        <content type="html"><![CDATA[2022.11.02
+                                    <span>11:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘피아니스트 이혁’의 기부콘서트 Op.1 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44820</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44820"/>
+        <updated>2022-10-28T08:33:03.937Z</updated>
+        <content type="html"><![CDATA[2022.11.17
+                                    <span>14:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 멜로망스 전국투어 콘서트 〈Festival〉 - 광주 티켓오픈 안내]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44819</id>
@@ -60,29 +84,5 @@
         <updated>2022-10-28T04:47:41.387Z</updated>
         <content type="html"><![CDATA[2022.11.01
                                     <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <굿모닝, 홍콩> 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44812</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44812"/>
-        <updated>2022-10-28T04:47:41.389Z</updated>
-        <content type="html"><![CDATA[2022.11.03
-                                    <span>15:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알사탕> - 성남 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44811</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44811"/>
-        <updated>2022-10-28T04:47:41.391Z</updated>
-        <content type="html"><![CDATA[2022.11.01
-                                    <span>11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미라클라스 콘서트 RE:BOOT 파이널 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44810</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44810"/>
-        <updated>2022-10-28T04:47:41.396Z</updated>
-        <content type="html"><![CDATA[2022.11.02
-                                    <span>16:00</span>]]></content>
     </entry>
 </feed>
