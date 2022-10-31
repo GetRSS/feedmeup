@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-10-30T21:23:44.195Z</updated>
+    <updated>2022-10-31T02:03:14.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ 서울 앵콜 ] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44828</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44828"/>
+        <updated>2022-10-31T02:03:13.868Z</updated>
+        <content type="html"><![CDATA[2022.11.02
+                                    <span>11:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 오펀스(Orphans) 1차 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44827</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44827"/>
+        <updated>2022-10-31T02:03:13.869Z</updated>
+        <content type="html"><![CDATA[2022.11.08
+                                    <span>11:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈이상한 엄마〉 2차 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44826</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44826"/>
+        <updated>2022-10-31T02:03:13.874Z</updated>
+        <content type="html"><![CDATA[2022.11.03
+                                    <span>11:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<브로콜리너마저 크리스마스 콘서트> - 안양 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44825</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44825"/>
+        <updated>2022-10-31T02:03:13.874Z</updated>
+        <content type="html"><![CDATA[2022.11.07
+                                    <span>14:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나만 알고싶은 인디 Ep.22 택우 단독 콘서트 티켓오픈 안내]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44824</id>
@@ -50,38 +82,6 @@
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44819</id>
         <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44819"/>
         <updated>2022-10-28T05:32:46.433Z</updated>
-        <content type="html"><![CDATA[2022.11.02
-                                    <span>20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해바라기 강성운의 추억바라기 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44818</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44818"/>
-        <updated>2022-10-28T05:32:46.437Z</updated>
-        <content type="html"><![CDATA[2022.11.03
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈웨이스티드〉 : 연극열전9_네 번째 작품 프리뷰 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44817</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44817"/>
-        <updated>2022-10-28T05:32:46.439Z</updated>
-        <content type="html"><![CDATA[2022.11.04
-                                    <span>16:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카더가든 단독 콘서트 [Home Sweet Home] 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44816</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44816"/>
-        <updated>2022-10-28T05:32:46.440Z</updated>
-        <content type="html"><![CDATA[2022.11.03
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 PEPPERTONES CONCERT ‘THOUSAND UMBRELLAS’ 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44815</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44815"/>
-        <updated>2022-10-28T05:32:46.446Z</updated>
         <content type="html"><![CDATA[2022.11.02
                                     <span>20:00</span>]]></content>
     </entry>
