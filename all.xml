@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GetRSS.github.io/feedmeup/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-01T14:30:53.923Z</updated>
+    <updated>2022-11-01T16:29:16.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[연극〈늘근도둑이야기〉 12월 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -52,14 +52,6 @@
                                     <span>12:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오페라 BOOK 콘서트 라 트라비아타 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44851</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44851"/>
-        <updated>2022-11-01T11:17:22.807Z</updated>
-        <content type="html"><![CDATA[2022.11.01
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2023 장윤정 라이브 콘서트 - 춘천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44850</id>
         <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44850"/>
@@ -82,5 +74,13 @@
         <updated>2022-11-01T11:17:22.811Z</updated>
         <content type="html"><![CDATA[2022.11.04
                                     <span>11:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[발가락 육상천재] 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44846</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44846"/>
+        <updated>2022-11-01T16:29:16.140Z</updated>
+        <content type="html"><![CDATA[2022.11.02
+                                    <span>14:00</span>]]></content>
     </entry>
 </feed>
