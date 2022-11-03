@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-11-03T10:20:34.215Z</updated>
+    <updated>2022-11-03T18:32:08.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
     <entry>
@@ -36,14 +36,6 @@
         <updated>2022-11-03T07:23:53.295Z</updated>
         <content type="html"><![CDATA[2022.11.04
                                     <span>11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 조수미 콘서트 〈In Love〉 - 이천 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44883</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44883"/>
-        <updated>2022-11-03T04:42:24.253Z</updated>
-        <content type="html"><![CDATA[2022.11.03
-                                    <span>14:00</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <광부화가들> 티켓오픈 안내]]></title>
@@ -84,5 +76,13 @@
         <updated>2022-11-03T04:42:24.262Z</updated>
         <content type="html"><![CDATA[2022.11.09
                                     <span>14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <급식왕 - 발가락 떡볶이의 비밀> - 대구 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44877</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44877"/>
+        <updated>2022-11-03T18:32:07.610Z</updated>
+        <content type="html"><![CDATA[2022.11.07
+                                    <span>09:00</span>]]></content>
     </entry>
 </feed>
