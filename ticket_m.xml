@@ -2,87 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-11-07T07:21:19.410Z</updated>
+    <updated>2022-11-07T11:16:30.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2022 먼데이키즈 콘서트 ‘외롭多’ 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44922</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44922"/>
-        <updated>2022-11-07T07:21:18.595Z</updated>
+        <title type="html"><![CDATA[Lacuna (라쿠나) 단독 콘서트 'dream:undefined' 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44939</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44939"/>
+        <updated>2022-11-07T11:16:29.779Z</updated>
+        <content type="html"><![CDATA[2022.11.14
+                                    <span>19:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022-23 YB TOUR LIGHTS - 고양 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44938</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44938"/>
+        <updated>2022-11-07T11:16:29.779Z</updated>
+        <content type="html"><![CDATA[2022.11.15
+                                    <span>12:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 THE SOLUTIONS CLUB TOUR [NAIVE] ; FINALE - 서울 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44937</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44937"/>
+        <updated>2022-11-07T11:16:29.779Z</updated>
+        <content type="html"><![CDATA[2022.11.23
+                                    <span>19:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 THE SOLUTIONS CLUB TOUR [NAIVE] ; FINALE - 대구 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44936</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44936"/>
+        <updated>2022-11-07T11:16:29.779Z</updated>
+        <content type="html"><![CDATA[2022.11.14
+                                    <span>19:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 THE SOLUTIONS CLUB TOUR [NAIVE] ; FINALE - 부산 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44935</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44935"/>
+        <updated>2022-11-07T11:16:29.781Z</updated>
+        <content type="html"><![CDATA[2022.11.11
+                                    <span>19:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[’Goodbye, Hello’ in NELL’S ROOM 2022 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44934</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44934"/>
+        <updated>2022-11-07T11:16:29.784Z</updated>
+        <content type="html"><![CDATA[2022.11.11
+                                    <span>20:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내여행 GRAND TOUR KOREA 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=928</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=928"/>
+        <updated>2022-11-07T11:16:29.790Z</updated>
+        <content type="html"><![CDATA[2022.11.08
+                                    <span>10:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리오 단독 콘서트 [Perennial Green] 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44933</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44933"/>
+        <updated>2022-11-07T11:16:29.791Z</updated>
         <content type="html"><![CDATA[2022.11.10
                                     <span>14:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이머시브 다이닝 〈그랜드 엑스페디션〉 4차 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44920</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44920"/>
-        <updated>2022-11-07T07:21:18.595Z</updated>
-        <content type="html"><![CDATA[2022.11.11
+        <title type="html"><![CDATA[2022 전국투어콘서트 <박창근> - 서울앵콜 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44932</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44932"/>
+        <updated>2022-11-07T11:16:29.796Z</updated>
+        <content type="html"><![CDATA[2022.11.10
                                     <span>15:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈급식왕 - 발가락 떡볶이의 비밀〉 - 부산 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44919</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44919"/>
-        <updated>2022-11-07T07:21:18.598Z</updated>
-        <content type="html"><![CDATA[2022.11.09
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유라 연말콘서트 [이 옷에 구멍은 시간을 아우르는 공] 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44918</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44918"/>
-        <updated>2022-11-07T07:21:18.600Z</updated>
-        <content type="html"><![CDATA[2022.11.11
-                                    <span>17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울［2022 FUERZA BRUTA WAYRA IN SEOUL］ 4차 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44917</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44917"/>
-        <updated>2022-11-07T07:21:18.602Z</updated>
+        <title type="html"><![CDATA[우리들의 청춘 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44931</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44931"/>
+        <updated>2022-11-07T11:16:29.798Z</updated>
         <content type="html"><![CDATA[2022.11.10
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［서울］2022 김연자 디너쇼 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44916</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44916"/>
-        <updated>2022-11-07T07:21:18.608Z</updated>
-        <content type="html"><![CDATA[2022.11.14
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구원찬 (Kuonechan), 다운 (Dvwn), 재만 (JAEMAN) 기획 공연 ‘OUR:OUTRO’ 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44915</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44915"/>
-        <updated>2022-11-07T07:21:18.610Z</updated>
-        <content type="html"><![CDATA[2022.11.09
-                                    <span>18:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김나영 콘서트 〈다시, 처음〉 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44914</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44914"/>
-        <updated>2022-11-07T07:21:18.612Z</updated>
-        <content type="html"><![CDATA[2022.11.10
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈김종욱 찾기〉 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44913</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44913"/>
-        <updated>2022-11-07T07:21:18.614Z</updated>
-        <content type="html"><![CDATA[2022.11.07
-                                    <span>17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 멜로망스 전국투어 콘서트 〈Festival〉 - 수원 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44912</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44912"/>
-        <updated>2022-11-07T07:21:18.615Z</updated>
-        <content type="html"><![CDATA[2022.11.10
-                                    <span>20:00</span>]]></content>
+                                    <span>19:00</span>]]></content>
     </entry>
 </feed>
