@@ -2,9 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-11-07T01:39:37.085Z</updated>
+    <updated>2022-11-07T04:48:54.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 KIM HO JOONG CONCERT TOUR [ ARISTRA ] - ILSAN 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44909</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44909"/>
+        <updated>2022-11-07T04:48:54.082Z</updated>
+        <content type="html"><![CDATA[2022.11.08
+                                    <span>20:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <그때도 오늘> 1차 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44908</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44908"/>
+        <updated>2022-11-07T04:48:54.085Z</updated>
+        <content type="html"><![CDATA[2022.11.09
+                                    <span>11:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crazy about R＆B JS with HOWON FAMILY Part.2 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44907</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44907"/>
+        <updated>2022-11-07T04:48:54.087Z</updated>
+        <content type="html"><![CDATA[2022.11.11
+                                    <span>14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음악극 〈올드위키드송〉 Old Wicked Songs 프리뷰 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44906</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44906"/>
+        <updated>2022-11-07T04:48:54.088Z</updated>
+        <content type="html"><![CDATA[2022.11.10
+                                    <span>15:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 송년음악회 〈베토벤 합창＆차이코프스키 피아노협주곡 제1번〉 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44905</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44905"/>
+        <updated>2022-11-07T04:48:54.089Z</updated>
+        <content type="html"><![CDATA[2022.11.08
+                                    <span>14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈디바〉 2차 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44904</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44904"/>
+        <updated>2022-11-07T04:48:54.091Z</updated>
+        <content type="html"><![CDATA[2022.11.07
+                                    <span>11:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클럽GWEN 티켓오픈 안내]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44901</id>
@@ -36,53 +84,5 @@
         <updated>2022-11-04T09:20:44.823Z</updated>
         <content type="html"><![CDATA[2022.11.07
                                     <span>11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈갈매기〉 1차 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44897</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44897"/>
-        <updated>2022-11-04T09:20:44.824Z</updated>
-        <content type="html"><![CDATA[2022.11.11
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스푸트니크 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44896</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44896"/>
-        <updated>2022-11-04T09:20:44.827Z</updated>
-        <content type="html"><![CDATA[2022.11.08
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김용임 디너쇼 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44895</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44895"/>
-        <updated>2022-11-04T09:20:44.827Z</updated>
-        <content type="html"><![CDATA[2022.11.10
-                                    <span>12:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플레이 뮤지컬 〈핑크퐁과 아기상어의 생일파티 대소동〉 1차 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44894</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44894"/>
-        <updated>2022-11-04T09:20:44.828Z</updated>
-        <content type="html"><![CDATA[2022.11.07
-                                    <span>11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[히사이시 조 영화음악 콘서트 2023_서울 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44893</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44893"/>
-        <updated>2022-11-04T09:20:44.829Z</updated>
-        <content type="html"><![CDATA[2022.11.11
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블록버스터 영화음악 콘서트 2023_서울 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44892</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44892"/>
-        <updated>2022-11-04T09:20:44.830Z</updated>
-        <content type="html"><![CDATA[2022.11.09
-                                    <span>14:00</span>]]></content>
     </entry>
 </feed>
