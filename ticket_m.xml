@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-11-06T23:22:18.637Z</updated>
+    <updated>2022-11-07T01:39:37.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[클럽GWEN 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44901</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44901"/>
+        <updated>2022-11-07T01:39:36.234Z</updated>
+        <content type="html"><![CDATA[2022.11.07
+                                    <span>09:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유니버설발레단 <호두까기인형> 3층 좌석 오픈 안내]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44900</id>
@@ -76,13 +84,5 @@
         <updated>2022-11-04T09:20:44.830Z</updated>
         <content type="html"><![CDATA[2022.11.09
                                     <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬［엄마까투리 - 마트에 간 꽁지］- 진주 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44891</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44891"/>
-        <updated>2022-11-04T09:20:44.834Z</updated>
-        <content type="html"><![CDATA[2022.11.08
-                                    <span>10:00</span>]]></content>
     </entry>
 </feed>
