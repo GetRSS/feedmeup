@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-11-07T20:27:42.570Z</updated>
+    <updated>2022-11-08T01:42:16.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아시아琴교류회 제24회정연주회 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44941</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44941"/>
+        <updated>2022-11-08T01:42:15.287Z</updated>
+        <content type="html"><![CDATA[2022.11.10
+                                    <span>00:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조수미 콘서트 〈In Love〉 - 용인 티켓 오픈 안내 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44940</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44940"/>
+        <updated>2022-11-08T01:42:15.288Z</updated>
+        <content type="html"><![CDATA[2022.11.15
+                                    <span>14:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lacuna (라쿠나) 단독 콘서트 'dream:undefined' 티켓오픈 안내]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44939</id>
@@ -68,21 +84,5 @@
         <updated>2022-11-07T11:16:29.791Z</updated>
         <content type="html"><![CDATA[2022.11.10
                                     <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 전국투어콘서트 <박창근> - 서울앵콜 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44932</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44932"/>
-        <updated>2022-11-07T11:16:29.796Z</updated>
-        <content type="html"><![CDATA[2022.11.10
-                                    <span>15:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리들의 청춘 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44931</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44931"/>
-        <updated>2022-11-07T11:16:29.798Z</updated>
-        <content type="html"><![CDATA[2022.11.10
-                                    <span>19:00</span>]]></content>
     </entry>
 </feed>
