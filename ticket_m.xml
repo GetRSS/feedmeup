@@ -2,87 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-11-08T03:30:02.743Z</updated>
+    <updated>2022-11-08T13:45:57.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[프롤로그 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44946</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44946"/>
-        <updated>2022-11-08T03:30:01.918Z</updated>
-        <content type="html"><![CDATA[2022.11.17
+        <title type="html"><![CDATA[누군가의 플레이리스트 Track. 58 9001(나인티오원) 단독 콘서트 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44970</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44970"/>
+        <updated>2022-11-08T13:45:56.317Z</updated>
+        <content type="html"><![CDATA[2022.11.11
                                     <span>19:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 미니특공대 브이레인저스 - 서울 티켓 오픈 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44945</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44945"/>
-        <updated>2022-11-08T03:30:01.921Z</updated>
-        <content type="html"><![CDATA[2022.11.16
+        <title type="html"><![CDATA[정동원 콘서트 2nd ‘성탄총동원’(2nd JEONG DONG WON’S CHRISTMAS CONCERT) 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44969</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44969"/>
+        <updated>2022-11-08T13:45:56.321Z</updated>
+        <content type="html"><![CDATA[2022.11.15
+                                    <span>18:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솔지 콘서트 〈Solist〉 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44967</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44967"/>
+        <updated>2022-11-08T13:45:56.321Z</updated>
+        <content type="html"><![CDATA[2022.11.11
+                                    <span>14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤직페스티벌 “RIDE THE BEAT” 공식 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44966</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44966"/>
+        <updated>2022-11-08T13:45:56.321Z</updated>
+        <content type="html"><![CDATA[2022.11.11
+                                    <span>20:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 2022 진성 연말디너쇼 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44963</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44963"/>
+        <updated>2022-11-08T13:45:56.325Z</updated>
+        <content type="html"><![CDATA[2022.11.10
                                     <span>11:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 SHINHWA WDJ CONCERT - COME TO LIFE (ONLINE) - 일반 예매 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44944</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44944"/>
-        <updated>2022-11-08T03:30:01.923Z</updated>
-        <content type="html"><![CDATA[2022.11.22
-                                    <span>20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 SHINHWA WDJ CONCERT - COME TO LIFE (ONLINE) - 서포터즈 예매 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44943</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44943"/>
-        <updated>2022-11-08T03:30:01.927Z</updated>
-        <content type="html"><![CDATA[2022.11.22
-                                    <span>20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 SHINHWA WDJ CONCERT - COME TO LIFE 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44942</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44942"/>
-        <updated>2022-11-08T03:30:01.929Z</updated>
-        <content type="html"><![CDATA[2022.11.21
-                                    <span>20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아시아琴교류회 제24회정연주회 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44941</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44941"/>
-        <updated>2022-11-08T01:42:15.287Z</updated>
+        <title type="html"><![CDATA[[서울] 2022 조항조 연말디너쇼 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44962</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44962"/>
+        <updated>2022-11-08T13:45:56.326Z</updated>
         <content type="html"><![CDATA[2022.11.10
-                                    <span>00:00</span>]]></content>
+                                    <span>11:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조수미 콘서트 〈In Love〉 - 용인 티켓 오픈 안내 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44940</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44940"/>
-        <updated>2022-11-08T01:42:15.288Z</updated>
+        <title type="html"><![CDATA[포레스텔라 공식 팬클럽 ‘숲별 2기’ 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44961</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44961"/>
+        <updated>2022-11-08T13:45:56.387Z</updated>
+        <content type="html"><![CDATA[2022.11.09
+                                    <span>15:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈드라큘라〉 2차 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44960</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44960"/>
+        <updated>2022-11-08T13:45:56.388Z</updated>
+        <content type="html"><![CDATA[2022.11.15
+                                    <span>11:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[라이브스트리밍]뮤지컬 드라큘라 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44959</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44959"/>
+        <updated>2022-11-08T13:45:56.389Z</updated>
         <content type="html"><![CDATA[2022.11.15
                                     <span>14:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lacuna (라쿠나) 단독 콘서트 'dream:undefined' 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44939</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44939"/>
-        <updated>2022-11-07T11:16:29.779Z</updated>
-        <content type="html"><![CDATA[2022.11.14
-                                    <span>19:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022-23 YB TOUR LIGHTS - 고양 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44938</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44938"/>
-        <updated>2022-11-07T11:16:29.779Z</updated>
+        <title type="html"><![CDATA[뮤지컬 〈마틸다〉 4차 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44958</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44958"/>
+        <updated>2022-11-08T13:45:56.407Z</updated>
         <content type="html"><![CDATA[2022.11.15
-                                    <span>12:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 THE SOLUTIONS CLUB TOUR [NAIVE] ; FINALE - 서울 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44937</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44937"/>
-        <updated>2022-11-07T11:16:29.779Z</updated>
-        <content type="html"><![CDATA[2022.11.23
-                                    <span>19:00</span>]]></content>
+                                    <span>14:00</span>]]></content>
     </entry>
 </feed>
