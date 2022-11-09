@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GetRSS.github.io/feedmeup/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-08T21:20:24.855Z</updated>
+    <updated>2022-11-09T01:49:45.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[세종솔로이스츠와 조이스 디도나토의 〈오버스토리 서곡〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44972</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44972"/>
+        <updated>2022-11-09T01:49:45.102Z</updated>
+        <content type="html"><![CDATA[2022.11.10
+                                    <span>15:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앙상블 DI ANIMA 콘서트오페라 시리즈2 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44971</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44971"/>
+        <updated>2022-11-09T01:49:45.103Z</updated>
+        <content type="html"><![CDATA[2022.11.10
+                                    <span>01:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누군가의 플레이리스트 Track. 58 9001(나인티오원) 단독 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44970</id>
@@ -67,21 +83,5 @@
         <updated>2022-11-08T13:45:56.388Z</updated>
         <content type="html"><![CDATA[2022.11.15
                                     <span>11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라이브스트리밍]뮤지컬 드라큘라 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44959</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44959"/>
-        <updated>2022-11-08T13:45:56.389Z</updated>
-        <content type="html"><![CDATA[2022.11.15
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈마틸다〉 4차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44958</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44958"/>
-        <updated>2022-11-08T13:45:56.407Z</updated>
-        <content type="html"><![CDATA[2022.11.15
-                                    <span>14:00</span>]]></content>
     </entry>
 </feed>
