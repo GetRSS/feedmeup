@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-11-09T03:39:31.936Z</updated>
+    <updated>2022-11-09T04:48:44.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김종서콘서트&사진전 'B-Cut ' 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44978</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44978"/>
+        <updated>2022-11-09T04:48:44.250Z</updated>
+        <content type="html"><![CDATA[2022.11.14
+                                    <span>12:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ENCORE YOU ME 20th ANNIVERSARY CONCERT 티켓오픈 안내]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44977</id>
@@ -76,13 +84,5 @@
         <updated>2022-11-08T13:45:56.321Z</updated>
         <content type="html"><![CDATA[2022.11.11
                                     <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 뮤직페스티벌 “RIDE THE BEAT” 공식 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44966</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44966"/>
-        <updated>2022-11-08T13:45:56.321Z</updated>
-        <content type="html"><![CDATA[2022.11.11
-                                    <span>20:00</span>]]></content>
     </entry>
 </feed>
