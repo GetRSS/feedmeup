@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-11-09T01:49:45.924Z</updated>
+    <updated>2022-11-09T03:39:31.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ENCORE YOU ME 20th ANNIVERSARY CONCERT 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44977</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44977"/>
+        <updated>2022-11-09T03:39:31.105Z</updated>
+        <content type="html"><![CDATA[2022.11.11
+                                    <span>16:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVECONNECT STAGE with 앨리스 인 원더랜드 연말 언플러그드 콘서트 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44975</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44975"/>
+        <updated>2022-11-09T03:39:31.107Z</updated>
+        <content type="html"><![CDATA[2022.11.10
+                                    <span>14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ 성남 ] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44974</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44974"/>
+        <updated>2022-11-09T03:39:31.151Z</updated>
+        <content type="html"><![CDATA[2022.11.11
+                                    <span>11:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포르테 디 콰트로 크리스마스 콘서트 〈O Holy Night〉 - 부산 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44973</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44973"/>
+        <updated>2022-11-09T03:39:31.155Z</updated>
+        <content type="html"><![CDATA[2022.11.15
+                                    <span>14:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세종솔로이스츠와 조이스 디도나토의 〈오버스토리 서곡〉 티켓오픈 안내]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44972</id>
@@ -52,37 +84,5 @@
         <updated>2022-11-08T13:45:56.321Z</updated>
         <content type="html"><![CDATA[2022.11.11
                                     <span>20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 2022 진성 연말디너쇼 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44963</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44963"/>
-        <updated>2022-11-08T13:45:56.325Z</updated>
-        <content type="html"><![CDATA[2022.11.10
-                                    <span>11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 2022 조항조 연말디너쇼 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44962</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44962"/>
-        <updated>2022-11-08T13:45:56.326Z</updated>
-        <content type="html"><![CDATA[2022.11.10
-                                    <span>11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포레스텔라 공식 팬클럽 ‘숲별 2기’ 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44961</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44961"/>
-        <updated>2022-11-08T13:45:56.387Z</updated>
-        <content type="html"><![CDATA[2022.11.09
-                                    <span>15:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈드라큘라〉 2차 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44960</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44960"/>
-        <updated>2022-11-08T13:45:56.388Z</updated>
-        <content type="html"><![CDATA[2022.11.15
-                                    <span>11:00</span>]]></content>
     </entry>
 </feed>
