@@ -1,6 +1,3 @@
-[default]
-timeout = 180
-
 [store]
 title = "네이버 공연 live beta ─ 후원유료"
 url = "https://live.naver.com/store"
@@ -8,4 +5,4 @@ entrySelector = "//html/body/div[1]/div[4]/div/div[2]/div/ul/li"
 titleSelector = "//div[1]/div[2]/a/text()"
 linkSelector = "//div[1]/div[2]/a"
 contentSelector = "//div[1]/div[2]/p[1]"
-waitUntil = "networkidle"
+waitForSelector = "//html/body/div[1]/div[4]/div/div[2]/div/ul/li"
