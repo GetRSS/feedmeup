@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mticket.interpark.com/Notice/Index?Genre=&amp;Page=1&amp;PageSize=10&amp;Sort=1</id>
     <title>인터파크 티켓 모바일</title>
-    <updated>2022-11-10T23:20:06.559Z</updated>
+    <updated>2022-11-11T03:31:50.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 스노우데이 - 국립중앙박물관 극장용 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45008</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45008"/>
+        <updated>2022-11-11T03:31:49.626Z</updated>
+        <content type="html"><![CDATA[2022.11.17
+                                    <span>11:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미라클라스 콘서트 RE:BOOT 파이널 추가좌석 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45007</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45007"/>
+        <updated>2022-11-11T03:31:49.634Z</updated>
+        <content type="html"><![CDATA[2022.11.14
+                                    <span>16:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［대구］ 상상을 찍는 사진작가 에릭 요한슨展 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=929</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=929"/>
+        <updated>2022-11-11T03:31:49.636Z</updated>
+        <content type="html"><![CDATA[2022.11.11
+                                    <span>17:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <넓은 하늘의 무지개를 보면 내 마음은 춤춘다> 1차 티켓오픈 안내]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45006</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45006"/>
+        <updated>2022-11-11T03:31:49.638Z</updated>
+        <content type="html"><![CDATA[2022.11.15
+                                    <span>14:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누군가의 플레이리스트 Track. 59 새벽공방 단독 콘서트 티켓오픈 안내]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45005</id>
@@ -51,38 +83,6 @@
         <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45000"/>
         <updated>2022-11-10T07:20:34.006Z</updated>
         <content type="html"><![CDATA[2022.11.16
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동구문화체육센터 뮤지컬 〈오! 당신이 잠든 사이〉 - 인천 추가티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44999</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44999"/>
-        <updated>2022-11-10T07:20:34.007Z</updated>
-        <content type="html"><![CDATA[2022.11.15
-                                    <span>10:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌3 - 평택 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44998</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44998"/>
-        <updated>2022-11-10T07:20:34.010Z</updated>
-        <content type="html"><![CDATA[2022.11.15
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이노파워즈 - 대구 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44997</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44997"/>
-        <updated>2022-11-10T07:20:34.011Z</updated>
-        <content type="html"><![CDATA[2022.11.14
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스텔라장 콘서트 〈WINTERSTELLA〉 티켓오픈 안내]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44996</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44996"/>
-        <updated>2022-11-10T07:20:34.025Z</updated>
-        <content type="html"><![CDATA[2022.11.17
                                     <span>14:00</span>]]></content>
     </entry>
 </feed>
