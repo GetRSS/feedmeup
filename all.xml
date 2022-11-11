@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GetRSS.github.io/feedmeup/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-11T08:26:15.100Z</updated>
+    <updated>2022-11-11T14:18:35.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[현대카드 Curated 79 손민수 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45025</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45025"/>
+        <updated>2022-11-11T14:18:34.838Z</updated>
+        <content type="html"><![CDATA[2022.11.16
+                                    <span>18:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 주니엘 데뷔 10주년기념 콘서트 'Junniversary' 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45024</id>
+        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45024"/>
+        <updated>2022-11-11T14:18:34.838Z</updated>
+        <content type="html"><![CDATA[2022.11.16
+                                    <span>18:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[거미 20주년 콘서트 〈BE ORIGIN〉-서울 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45023</id>
@@ -65,22 +81,6 @@
         <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45016</id>
         <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45016"/>
         <updated>2022-11-11T07:20:53.772Z</updated>
-        <content type="html"><![CDATA[2022.11.15
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈볼륨업〉 6차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45015</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45015"/>
-        <updated>2022-11-11T07:20:53.772Z</updated>
-        <content type="html"><![CDATA[2022.11.17
-                                    <span>14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 안산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-        <id>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45014</id>
-        <link href="http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45014"/>
-        <updated>2022-11-11T05:28:33.048Z</updated>
         <content type="html"><![CDATA[2022.11.15
                                     <span>14:00</span>]]></content>
     </entry>
