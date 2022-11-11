@@ -1,11 +1,12 @@
 [default]
 timeout = 180
 
-[ticket_m]
-title = "인터파크 티켓 모바일"
-url = "http://mticket.interpark.com/Notice/Index?Genre=&Page=1&PageSize=10&Sort=1"
-entrySelector = "div.ticketListBox > div.list > div.item"
-titleSelector = "a > div.row > div.col.infoWrap > p.label"
-linkSelector = "a"
-contentSelector = "a > div:nth-child(2) > div > dl.ticketOpen > dd"
-waitForSelector = "div.list > div.item"
+[store]
+title = "네이버 공연 live beta ─ 후원유료"
+url = "https://live.naver.com/store"
+entrySelector = "ul.list-item li.item"
+titleSelector = "a.detail-title"
+linkSelector = "a.detail-title"
+contentSelector = "p.date.ico-before"
+imageSelector = "img._lazyImage"
+waitUntil = "networkidle"
