@@ -2,7 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/store</id>
     <title>네이버 공연 live beta ─ 후원유료</title>
-    <updated>2022-11-11T18:38:03.641Z</updated>
+    <updated>2022-11-11T18:43:34.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://patron.naver.com/ntv/c/intro/thewave2018</id>
+        <link href="https://patron.naver.com/ntv/c/intro/thewave2018"/>
+        <updated>2022-11-11T18:43:33.963Z</updated>
+        <content type="html"><![CDATA[11월 13일(일) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://patron.naver.com/ntv/c/intro/page1</id>
+        <link href="https://patron.naver.com/ntv/c/intro/page1"/>
+        <updated>2022-11-11T18:43:33.963Z</updated>
+        <content type="html"><![CDATA[11월 14일(월) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://patron.naver.com/ntv/c/intro/beautifulway21</id>
+        <link href="https://patron.naver.com/ntv/c/intro/beautifulway21"/>
+        <updated>2022-11-11T18:43:33.965Z</updated>
+        <content type="html"><![CDATA[11월 21일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://patron.naver.com/ntv/c/intro/metatheater</id>
+        <link href="https://patron.naver.com/ntv/c/intro/metatheater"/>
+        <updated>2022-11-11T18:43:33.966Z</updated>
+        <content type="html"><![CDATA[11월 28일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://patron.naver.com/ntv/c/intro/koreanationalopera</id>
+        <link href="https://patron.naver.com/ntv/c/intro/koreanationalopera"/>
+        <updated>2022-11-11T18:43:33.966Z</updated>
+        <content type="html"><![CDATA[12월 03일(토) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://tv.naver.com/l/119802</id>
+        <link href="https://tv.naver.com/l/119802"/>
+        <updated>2022-11-11T18:43:33.966Z</updated>
+        <content type="html"><![CDATA[12월 05일(월) 20:00]]></content>
+    </entry>
 </feed>
