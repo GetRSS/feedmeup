@@ -1,8 +1,8 @@
 [store]
 title = "네이버 공연 live beta ─ 후원유료"
 url = "https://live.naver.com/store"
-entrySelector = "ul#list-item-store > li"
+entrySelector = "div.info-box ul li"
 titleSelector = "div.item-box > div.detail-info > a"
 linkSelector = "div.item-box > div.detail-info > a"
 contentSelector = "div.item-box > div.detail-info > p.date.ico-before"
-waitForSelector = "ul#list-item-store"
+waitForSelector = "ul#list-item-store > li"
