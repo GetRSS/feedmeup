@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/store</id>
     <title>네이버 공연 live beta ─ 후원유료</title>
-    <updated>2022-11-13T23:20:15.573Z</updated>
+    <updated>2022-11-14T01:28:52.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -40,9 +40,9 @@
     <entry>
         <title type="html"><![CDATA[후원
 											뮤지컬 <랭보> 영어 자막 지원 온라인 중계 (2019년도)]]></title>
-        <id>https://tv.naver.com/l/119802</id>
-        <link href="https://tv.naver.com/l/119802"/>
-        <updated>2022-11-12T04:46:56.570Z</updated>
+        <id>https://patron.naver.com/ntv/c/intro/livecorp</id>
+        <link href="https://patron.naver.com/ntv/c/intro/livecorp"/>
+        <updated>2022-11-14T01:28:51.916Z</updated>
         <content type="html"><![CDATA[12월 05일(월) 20:00]]></content>
     </entry>
 </feed>
