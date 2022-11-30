@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/store</id>
     <title>네이버 공연 live beta ─ 후원유료</title>
-    <updated>2022-11-30T06:20:43.585Z</updated>
+    <updated>2022-11-30T07:15:21.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -58,7 +58,7 @@
 											뮤지컬 <개와 고양이의 시간> 녹화중계]]></title>
         <id>https://patron.naver.com/ntv/c/intro/ateod</id>
         <link href="https://patron.naver.com/ntv/c/intro/ateod"/>
-        <updated>2022-11-30T06:20:42.983Z</updated>
+        <updated>2022-11-30T06:20:42.982Z</updated>
         <content type="html"><![CDATA[12월 26일(월) 20:00]]></content>
     </entry>
 </feed>
