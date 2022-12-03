@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/store</id>
     <title>네이버 공연 live beta ─ 후원유료</title>
-    <updated>2022-12-03T11:12:08.382Z</updated>
+    <updated>2022-12-03T12:26:36.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-											오페라 <라 보엠>]]></title>
-        <id>https://patron.naver.com/ntv/c/intro/koreanationalopera</id>
-        <link href="https://patron.naver.com/ntv/c/intro/koreanationalopera"/>
-        <updated>2022-11-12T04:46:56.569Z</updated>
-        <content type="html"><![CDATA[12월 03일(토) 15:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 											뮤지컬 <번지점프를 하다> 후원 라이브_12/5 (월) 20:00]]></title>
