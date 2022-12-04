@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/store</id>
     <title>네이버 공연 live beta ─ 후원유료</title>
-    <updated>2022-12-04T08:19:09.891Z</updated>
+    <updated>2022-12-04T09:14:19.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -52,6 +52,22 @@
         <link href="https://patron.naver.com/ntv/c/intro/metatheater"/>
         <updated>2022-11-30T05:15:28.593Z</updated>
         <content type="html"><![CDATA[12월 22일(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+											Happy Opera Day ③ 국립오페라단 오페라 <라 트라비아타>]]></title>
+        <id>https://tv.naver.com/l/120065</id>
+        <link href="https://tv.naver.com/l/120065"/>
+        <updated>2022-12-04T09:14:18.958Z</updated>
+        <content type="html"><![CDATA[12월 24일(토) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+											Happy Opera Day ④ 국립오페라단 오페라 <라 보엠>]]></title>
+        <id>https://tv.naver.com/l/120066</id>
+        <link href="https://tv.naver.com/l/120066"/>
+        <updated>2022-12-04T09:14:18.959Z</updated>
+        <content type="html"><![CDATA[12월 25일(일) 17:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
