@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/store</id>
     <title>네이버 공연 live beta ─ 후원유료</title>
-    <updated>2022-12-06T02:42:05.531Z</updated>
+    <updated>2022-12-06T03:16:44.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -50,7 +50,7 @@
 											Happy Opera Day ④ 국립오페라단 오페라 <라 보엠>]]></title>
         <id>https://patron.naver.com/ntv/c/intro/koreanationalopera</id>
         <link href="https://patron.naver.com/ntv/c/intro/koreanationalopera"/>
-        <updated>2022-12-06T02:42:04.996Z</updated>
+        <updated>2022-12-06T02:42:04.995Z</updated>
         <content type="html"><![CDATA[12월 25일(일) 17:00]]></content>
     </entry>
     <entry>
